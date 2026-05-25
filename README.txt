@@ -1,7 +1,4 @@
-Integrantes do Grupo:
-
-	Nome: Leonardo Dallagnol
-	nUSP: 11795850
+Autor: Leonardo Dallagnol
 
 Ambiente usado para compilação:
 
