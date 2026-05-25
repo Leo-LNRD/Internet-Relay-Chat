@@ -14,7 +14,5 @@ Link para apresentação: https://drive.google.com/file/d/1Jizt5Lr6PTFTjS0mJjCx2
 Observações:
 	- A única funcionalidade que não está implementada é a do
 	fracionamento de mensagens que são maiores que o buffer.
-	- Existem ideias abandonadas no código, como a implementação
-	de senhas nas salas.
 	- Se tiver alguma dúvida/problema na execução, fique à vontade
 	de me enviar um e-mail (dallagnol_leonardo@usp.br).
